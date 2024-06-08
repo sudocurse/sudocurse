@@ -22,8 +22,8 @@
 
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -20% -50%; opacity: 1; background-repeat: repeat; background-size: 100% 100%; height: 600px; animation: 9s linear both infinite shrink-x; background-image: url('https://github.com/sudocurse/sudocurse/blob/main/miku/fake-news.png?raw=true');]{x0000}$}
-\ce{$&#x5C;unicode[background-image: url('https://github.com/sudocurse/sudocurse/blob/main/miku/happy-reverse.png?raw=true');]{x0000}$}
-\ce{$&#x5C;unicode[background-image: url('https://github.com/sudocurse/sudocurse/blob/main/miku/miku-pien.png?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -20% -50%; opacity: 1; background-repeat: repeat; background-size: 100% 100%; height: 600px; animation: 9s linear both infinite shrink-x; background-image: url('https://github.com/sudocurse/sudocurse/blob/main/miku/fake-news.png?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; z-index: 3; pointer-events: none; background-size: cover; background-image: url('https://github.com/sudocurse/sudocurse/blob/main/miku/happy-reverse.png?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; z-index: 3; pointer-events: none; background-size: cover; background-image: url('https://github.com/sudocurse/sudocurse/blob/main/miku/miku-pien.png?raw=true');]{x0000}$}
 
 
